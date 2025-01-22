@@ -69,7 +69,7 @@ Word,Hiragana,English meaning
 従わせ,したがわせ,make obey
 心臓,しんぞう,heart
 忘,わす,forget
-性格,せいかく,character, personality
+性格,せいかく,character/personality
 恐怖心,きょうふしん,fear
 息,いき,breath
 情報,じょうほう,information
@@ -89,7 +89,7 @@ Word,Hiragana,English meaning
 昨年,さくねん,last year
 時代,じだい,"era, age"
 時間,じかん,time
-暗証番号,あんしょう:ばんごう,pin code, password
+暗証番号,あんしょう:ばんごう,pin code
 暴力,ぼうりょく,violence
 暴行,ぼうこう,assault
 書か,かか,written
@@ -98,25 +98,24 @@ Word,Hiragana,English meaning
 東京地裁,とうきょうちさい,Tokyo District Court
 東京都,とうきょうと,Tokyo Metropolis
 検索,けんさく,search
-業者,ぎょうしゃ,merchant, business
-楽勝,らくしょう,easy win, effortless
-権力,けんりょく,power, authority
+業者,ぎょうしゃ,merchant/business
+楽勝,らくしょう,easy win/effortless
+権力,けんりょく,power/authority
 殴ら,なぐら,hit, beaten
-殴られる,なぐられる,to be hit, to be beaten
+殴られる,なぐられる,to be hit
 汁,しる,juice, soup
-決まって,きまって,decided, fixed
-決済,けっさい,settlement, payment
+決まって,きまって,decided
+決済,けっさい,settlement/payment
 流し,ながし,flow, washing
 海外,かいがい,overseas
 涼しい,すずしい,cool, refreshing
 減ったら,へったら,if it decreases
 減る,へる,decrease, lessen
-渡す,わたす,to hand over, pass
-溝,みぞ,gutter, groove
-潮,しお,tide, sea
+渡す,わたす,to hand over
+溝,みぞ,gutter
+潮,しお,tide
 無罪,むざい,not guilty
 無職,むしょく,unemployed
-独名判断,どくめいはんだん,German name interpretation
 現金,げんきん,cash
 理由,りゆう,reason
 甘い,あまい,sweet
@@ -141,12 +140,10 @@ Word,Hiragana,English meaning
 腹,はら,stomach
 自分,じぶん,oneself
 自力,じりき,one's own effort
-色恋屋,いろこいや,pimp
 苦労,くろう,"hardship, trouble"
 被告,ひこく,defendant
 複数回,ふくすうかい,multiple times
 親,おや,parent
-親の,おやの,of parents
 記事,きじ,article/report
 証券会社,しょうけんがいしゃ,securities company
 負わせ,おわせ,cause (injury)
@@ -180,7 +177,43 @@ Word,Hiragana,English meaning
 頑丈,がんじょう,sturdy, strong
 頭,あたま,head
 高級,こうきゅう,luxury, high class
-黄美子,きみこ,Kimiko
 黄美子,きみこ,Kimiko (given name)
 黙り,だまり,silence
 黙秘,もくひ,right to remain silent
+整理,せいり,Organize, arrange
+日付,ひづけ,Date
+掲載,けいさい,Publication, posting
+初公判,しょこうはん,First trial
+被害者,ひがいしゃ,Victim
+関係者,かんけいしゃ,Related parties/stakeholders
+現在,げんざい,Present
+状態,じょうたい,Condition/state
+事件,じけん,Incident
+裁判,さいばん,Trial
+展開,てんかい,Development
+取り調べ,とりしらべ,Interrogation, questioning
+拘置所,こうちしょ,Detention center, jail
+順序,じゅんじょ,Order, sequence
+ルール,るーる,Rules
+想像,そうぞう,Imagination, conjecture
+殺風景,さっぷうけい,Bleak, desolate
+灰色,はいいろ,Gray
+小部屋,こべや,Small room
+手錠,てじょう,Handcuffs
+表情,ひょうじょう,Facial expression
+裁判官,さいばんかん,Judge
+法廷画家,ほうていがか,Courtroom artist
+描く,えがく/かく,To draw, to depict
+似顔絵,にがおえ,Portrait
+暮らす,くらす,To live, to reside
+普通,ふつう,Ordinary, normal
+実際,じっさい,Reality, actually
+流れる,ながれる,To flow, to pass
+添える,そえる,To add, to attach
+現実的,げんじつてき,Realistic
+終わる,おわる,To end, to finish
+過ぎ去る,すぎさる,To pass, to go by
+繋がる,つながる,To be connected
+連絡,れんらく,Contact
+事件,じけん,Incident, event
+関係,かんけい,Relation, connection
